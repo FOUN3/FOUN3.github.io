@@ -1,0 +1,23 @@
+body {
+    background-image: url(img/heart-bg.jpg)    
+    /*background-color: pink;*/
+}
+
+.question {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    width: 100%;
+}
+
+.yes {
+    width: 8vh;
+    height: 5vh;
+}
+
+.no {
+    width: 8vh;
+    height: 5vh;
+}
